@@ -12,7 +12,7 @@ Currently, two official plugins are available:
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
 
-## 🌐 Live Demo
+## 🚀 Live Demo
 
-You can view the deployed portfolio here:  
-👉 [Visit Portfolio](https://my-portfolio-two-ebon-12.vercel.app/)
+Check out the live version of this portfolio here:  
+🔗 [My Portfolio Web App](https://my-portfolio-two-ebon-12.vercel.app/)
